@@ -1,4 +1,5 @@
 ---
+title: My experience learning nix
 ---
 # Test
 
