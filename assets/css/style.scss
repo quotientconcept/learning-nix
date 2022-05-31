@@ -3,10 +3,8 @@
 
 @import "{{ site.theme }}";
 
-footer {
-  display: none !important;
-}
-
-.btn {
+.site-footer-credits,
+header a.btn
+{
   display: none !important;
 }
