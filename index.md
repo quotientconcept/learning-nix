@@ -2,6 +2,8 @@
 title: My experience learning nix
 layout: postlist
 ---
-# Test
+
+Test
+----
 
 This blog …
