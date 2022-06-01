@@ -1,4 +1,5 @@
 permalink: /:year-:title
+show_downloads: false # variable for 'cayman' theme
 title: My experience learning nix
 theme: jekyll-theme-cayman
 timezone: Europe/London
