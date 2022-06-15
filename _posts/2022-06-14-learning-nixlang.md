@@ -79,7 +79,5 @@ awful syntax design.
 ### Done
 Okay I'm done. Next up is [Nix by example: Part
 1](https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55) (that's the
-only part there is), followed by Nix Pills, which I believe used to be hosted on  
-[http://lethalman.blogspot.de/2014/07/nix-pill-1-why-you-should-give-it-try.html](http://lethalman.blogspot.de/2014/07/nix-pill-1-why-you-should-give-it-try.html)  
-but is now more up-to-date at  
-[https://nixos.org/guides/nix-pills/why-you-should-give-it-a-try.html](https://nixos.org/guides/nix-pills/why-you-should-give-it-a-try.html)
+only part there is), followed by [Nix
+Pills](https://nixos.org/guides/nix-pills/index.html).
